@@ -1,0 +1,4 @@
+root: ./
+
+structure:
+  langs: LANGS.md
