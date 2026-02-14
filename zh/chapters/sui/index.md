@@ -5,18 +5,18 @@
 ## 目录
 
 ### 钱包安装
-- [Suiet钱包安装教程](suiet.html) - Suiet钱包配置
-- [Slush钱包安装教程](slush.html) - Slush钱包配置
+- [Suiet钱包安装教程](suiet.md) - Suiet钱包配置
+- [Slush钱包安装教程](slush.md) - Slush钱包配置
 
 ### 代币创建
-- [Sui链一键发币教程](standard.html) - 标准代币创建
-- [代币权限管理教程](control.html) - 代币权限控制
+- [Sui链一键发币教程](standard.md) - 标准代币创建
+- [代币权限管理教程](control.md) - 代币权限控制
 
 ### 流动性池
-- [Sui链代币创建稳定池教程](pool.html) - 稳定池创建
-- [创建AMM流动性资金池教程](bluemove.html) - BlueMove AMM池
-- [创建集中流动性资金池教程](cetus.html) - Cetus集中流动性
-- [创建CLMM流动性资金池教程](turbos.html) - Turbos CLMM池
+- [Sui链代币创建稳定池教程](pool.md) - 稳定池创建
+- [创建AMM流动性资金池教程](bluemove.md) - BlueMove AMM池
+- [创建集中流动性资金池教程](cetus.md) - Cetus集中流动性
+- [创建CLMM流动性资金池教程](turbos.md) - Turbos CLMM池
 
 ---
 

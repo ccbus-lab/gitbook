@@ -4,13 +4,13 @@
 
 ## 目录
 
-- [小狐狸插件安装教程](metamask.html) - MetaMask钱包安装与配置
-- [欧易OKX Web3钱包发币教程](okx.html) - 使用OKX Web3钱包发币
-- [公链配置参数](parameter.html) - 各公链网络配置参数
-- [测试币水龙头大全](faucet.html) - 各链测试币获取渠道
-- [交易所路由Router合约](jiao-yi-suo-lu-you-router.html) - DEX路由合约地址
-- [主流币合约地址](smart-contract.html) - 主流代币合约地址汇总
-- [代币与LP链上解锁教程](unlock.html) - 链上解锁操作指南
+- [小狐狸插件安装教程](metamask.md) - MetaMask钱包安装与配置
+- [欧易OKX Web3钱包发币教程](okx.md) - 使用OKX Web3钱包发币
+- [公链配置参数](parameter.md) - 各公链网络配置参数
+- [测试币水龙头大全](faucet.md) - 各链测试币获取渠道
+- [交易所路由Router合约](jiao-yi-suo-lu-you-router.md) - DEX路由合约地址
+- [主流币合约地址](smart-contract.md) - 主流代币合约地址汇总
+- [代币与LP链上解锁教程](unlock.md) - 链上解锁操作指南
 
 ---
 

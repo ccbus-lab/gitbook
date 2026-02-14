@@ -5,49 +5,49 @@
 ## 目录
 
 ### 钱包与准备
-- [幻影钱包Phantom安装教程](phantom.html) - Phantom钱包安装配置
-- [批量生成钱包地址](createwallet.html) - 批量创建Solana钱包
-- [Solana靓号钱包地址生成教程](vanityaddress.html) - 生成自定义前缀地址
+- [幻影钱包Phantom安装教程](phantom.md) - Phantom钱包安装配置
+- [批量生成钱包地址](createwallet.md) - 批量创建Solana钱包
+- [Solana靓号钱包地址生成教程](vanityaddress.md) - 生成自定义前缀地址
 
 ### 代币创建
-- [一键发币教程](standard.html) - 标准SPL代币创建
-- [创建税率代币(Token2022)教程](create2022.html) - Token2022代币
-- [创建靓号代币教程](createvanitytoken.html) - 自定义代币地址
-- [代币克隆教程](clonetoken.html) - 克隆已有代币
-- [更新代币资料](upload.html) - 修改代币元数据
+- [一键发币教程](standard.md) - 标准SPL代币创建
+- [创建税率代币(Token2022)教程](create2022.md) - Token2022代币
+- [创建靓号代币教程](createvanitytoken.md) - 自定义代币地址
+- [代币克隆教程](clonetoken.md) - 克隆已有代币
+- [更新代币资料](upload.md) - 修改代币元数据
 
 ### 代币管理
-- [权限管理(增发、冻结、弃权)](control.html) - 代币权限控制
-- [销毁代币、烧池教程](burn.html) - 代币销毁操作
-- [提取手续费教程](taxclaim.html) - 提取税率代币手续费
-- [租金回收教程](rent.html) - 回收账户租金
+- [权限管理(增发、冻结、弃权)](control.md) - 代币权限控制
+- [销毁代币、烧池教程](burn.md) - 代币销毁操作
+- [提取手续费教程](taxclaim.md) - 提取税率代币手续费
+- [租金回收教程](rent.md) - 回收账户租金
 
 ### 流动性池
-- [创建流动资金池教程](createpool.html) - 创建AMM池
-- [CPMM加池子教程](raydium.html) - Raydium CPMM池
-- [创建Raydium CLMM稳定池教程](clmm.html) - CLMM集中流动性
-- [DLMM稳定池创建教程](meteora.html) - Meteora DLMM池
-- [Market ID查询教程](findmarket.html) - 查询市场ID
-- [市场ID低成本创建教程](market.html) - 低成本创建Market
-- [添加/移除流动性教程](managepool.html) - 流动性管理
-- [烧池子教程](burnlp.html) - 销毁LP代币
+- [创建流动资金池教程](createpool.md) - 创建AMM池
+- [CPMM加池子教程](raydium.md) - Raydium CPMM池
+- [创建Raydium CLMM稳定池教程](clmm.md) - CLMM集中流动性
+- [DLMM稳定池创建教程](meteora.md) - Meteora DLMM池
+- [Market ID查询教程](findmarket.md) - 查询市场ID
+- [市场ID低成本创建教程](market.md) - 低成本创建Market
+- [添加/移除流动性教程](managepool.md) - 流动性管理
+- [烧池子教程](burnlp.md) - 销毁LP代币
 
 ### Pump.fun相关
-- [发币与捆绑买入教程](createpump.html) - Pump.fun发币
-- [一键发币与捆绑买入教程](createbonk.html) - 捆绑买入
-- [一键捆绑卖出教程](sellpump.html) - 批量卖出
-- [Pump.fun市值管理机器人教程](swapbotpump.html) - Pump市值管理
+- [发币与捆绑买入教程](createpump.md) - Pump.fun发币
+- [一键发币与捆绑买入教程](createbonk.md) - 捆绑买入
+- [一键捆绑卖出教程](sellpump.md) - 批量卖出
+- [Pump.fun市值管理机器人教程](swapbotpump.md) - Pump市值管理
 
 ### 批量工具
-- [批量空投教程](batch-transfer.html) - 代币批量转账
-- [批量归集教程](gather.html) - 代币归集
-- [代币快照教程](snapshottoken.html) - 持币地址快照
-- [新地址买入工具教程](newbuy.html) - 新钱包买入
+- [批量空投教程](batch-transfer.md) - 代币批量转账
+- [批量归集教程](gather.md) - 代币归集
+- [代币快照教程](snapshottoken.md) - 持币地址快照
+- [新地址买入工具教程](newbuy.md) - 新钱包买入
 
 ### 市值管理
-- [市值管理机器人教程](swapbot.html) - 基础市值管理
-- [批量交易/市值管理教程](swapbotbonk.html) - 高级市值管理
-- [创建预售、私募教程](createmint.html) - 预售功能
+- [市值管理机器人教程](swapbot.md) - 基础市值管理
+- [批量交易/市值管理教程](swapbotbonk.md) - 高级市值管理
+- [创建预售、私募教程](createmint.md) - 预售功能
 
 ---
 

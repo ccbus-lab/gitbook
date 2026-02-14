@@ -5,30 +5,30 @@
 ## 目录
 
 ### 钱包工具
-- [批量生成BSC/ETH钱包](create-wallets.html) - 批量创建钱包地址
+- [批量生成BSC/ETH钱包](create-wallets.md) - 批量创建钱包地址
 
 ### 转账工具
-- [代币批量转账教程](batch-transfer.html) - 批量发送代币
-- [代币批量空投教程](multisendv2.html) - 空投代币给多地址
-- [代币批量归集工具](gather.html) - 归集多钱包代币
+- [代币批量转账教程](batch-transfer.md) - 批量发送代币
+- [代币批量空投教程](multisendv2.md) - 空投代币给多地址
+- [代币批量归集工具](gather.md) - 归集多钱包代币
 
 ### Four.meme工具
-- [Four.meme内盘发币教程](createfour.html) - Four.meme发币
-- [Four市值管理/批量交易工具](fourmarket.html) - Four交易工具
-- [Four.meme一键卖出清仓教程](selffour.html) - 批量卖出
+- [Four.meme内盘发币教程](createfour.md) - Four.meme发币
+- [Four市值管理/批量交易工具](fourmarket.md) - Four交易工具
+- [Four.meme一键卖出清仓教程](selffour.md) - 批量卖出
 
 ### 安全与检测
-- [合约安全检测](contract-check.html) - 检测合约安全性
-- [代币快照教程](snapshottoken.html) - 获取持币地址列表
+- [合约安全检测](contract-check.md) - 检测合约安全性
+- [代币快照教程](snapshottoken.md) - 获取持币地址列表
 
 ### 流动性工具
-- [流动性修复](lpfixtool.html) - 修复流动性问题
+- [流动性修复](lpfixtool.md) - 修复流动性问题
 
 ### 市值管理
-- [市值管理机器人](operate.html) - 自动化市值管理
+- [市值管理机器人](operate.md) - 自动化市值管理
 
 ### 隐私工具
-- [龙卷风混币工具使用教程](tornado.html) - 代币混淆工具
+- [龙卷风混币工具使用教程](tornado.md) - 代币混淆工具
 
 ---
 

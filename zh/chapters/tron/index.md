@@ -5,21 +5,21 @@
 ## 目录
 
 ### 钱包安装
-- [波宝钱包TronLink安装教程](tronlink.html) - TronLink钱包配置
+- [波宝钱包TronLink安装教程](tronlink.md) - TronLink钱包配置
 
 ### 代币创建
-- [波场Tron一键发币教程](standard.html) - TRC20代币创建
-- [波场代币合约验证和开源教程](verify.html) - 合约验证开源
-- [波场代币信息录入教程](record.html) - 代币信息完善
+- [波场Tron一键发币教程](standard.md) - TRC20代币创建
+- [波场代币合约验证和开源教程](verify.md) - 合约验证开源
+- [波场代币信息录入教程](record.md) - 代币信息完善
 
 ### 流动性池
-- [SunSwap做流动性资金池子教程](sunswap.html) - SunSwap加池教程
+- [SunSwap做流动性资金池子教程](sunswap.md) - SunSwap加池教程
 
 ### 批量工具
-- [波场Tron批量转账工具教程](multisend.html) - TRX/TRC20批量转账
+- [波场Tron批量转账工具教程](multisend.md) - TRX/TRC20批量转账
 
 ### 市值管理
-- [波场Tron市值管理机器人使用教程](trxbot.html) - 市值管理工具
+- [波场Tron市值管理机器人使用教程](trxbot.md) - 市值管理工具
 
 ---
 

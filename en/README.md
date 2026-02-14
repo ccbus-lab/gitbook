@@ -26,57 +26,57 @@ This guide will provide you with practical knowledge and experience.
 ## 📖 Complete Content Navigation
 
 
-### [Chapter 1: Cross-Chain Bridge](/en/ccbus-guide/chapters/bridge/) 🌉
+### [Chapter 1: Cross-Chain Bridge](chapters/bridge/index.md) 🌉
 **Difficulty:** 🟢 Beginner | **Tutorials:** 4
 
 Master cross-chain asset transfer technology, supporting multi-chain interoperability.
 
-### [Chapter 2: EVM Token Creation](/en/ccbus-guide/chapters/createtoken/) 🪙
+### [Chapter 2: EVM Token Creation](chapters/createtoken/index.md) 🪙
 **Difficulty:** 🟢 Beginner | **Tutorials:** 22
 
 Comprehensive guide to EVM token creation, including standard tokens, dividend tokens, 314 protocol, and more.
 
-### [Chapter 3: Terms & Declaration](/en/ccbus-guide/chapters/declaration/) 📋
+### [Chapter 3: Terms & Declaration](chapters/declaration/index.md) 📋
 **Difficulty:** 🟢 Beginner | **Documents:** 2
 
 Important legal disclaimers and terms of service.
 
-### [Chapter 4: Practical Information](/en/ccbus-guide/chapters/practical-information/) 💡
+### [Chapter 4: Practical Information](chapters/practical-information/index.md) 💡
 **Difficulty:** 🟢 Beginner | **Tutorials:** 7
 
 Wallet configuration, chain parameters, faucets, and other practical guides.
 
-### [Chapter 5: Presale Tools](/en/ccbus-guide/chapters/presale/) 🚀
+### [Chapter 5: Presale Tools](chapters/presale/index.md) 🚀
 **Difficulty:** 🟡 Intermediate | **Tutorials:** 3
 
 Token presale and mint functionality implementation tutorials.
 
-### [Chapter 6: FAQ](/en/ccbus-guide/chapters/question/) ❓
+### [Chapter 6: FAQ](chapters/question/index.md) ❓
 **Difficulty:** 🟢 Beginner | **Q&A:** 9
 
 Common questions and answers, including liquidity, detection, and verification guides.
 
-### [Chapter 7: Solana Tools](/en/ccbus-guide/chapters/sol/) ⚡
+### [Chapter 7: Solana Tools](chapters/sol/index.md) ⚡
 **Difficulty:** 🟡 Intermediate | **Tutorials:** 30
 
 Complete Solana ecosystem toolset, covering token creation, Raydium, Pump.fun, and more.
 
-### [Chapter 8: Sui Tools](/en/ccbus-guide/chapters/sui/) 🌊
+### [Chapter 8: Sui Tools](chapters/sui/index.md) 🌊
 **Difficulty:** 🟡 Intermediate | **Tutorials:** 7
 
 Sui blockchain tools guide, including Cetus, Turbos, and other DEXs.
 
-### [Chapter 9: TON Tools](/en/ccbus-guide/chapters/ton/) 💎
+### [Chapter 9: TON Tools](chapters/ton/index.md) 💎
 **Difficulty:** 🟡 Intermediate | **Tutorials:** 5
 
 TON ecosystem tools, Jetton creation and DeDust trading.
 
-### [Chapter 10: General Tools](/en/ccbus-guide/chapters/tools/) 🛠️
+### [Chapter 10: General Tools](chapters/tools/index.md) 🛠️
 **Difficulty:** 🟢 Beginner | **Tutorials:** 10
 
 Batch transfer, contract checking, wallet generation, and other utilities.
 
-### [Chapter 11: TRON Tools](/en/ccbus-guide/chapters/tron/) 🔴
+### [Chapter 11: TRON Tools](chapters/tron/index.md) 🔴
 **Difficulty:** 🟡 Intermediate | **Tutorials:** 7
 
 TRON chain toolset, TRC20 tokens and SunSwap operations.

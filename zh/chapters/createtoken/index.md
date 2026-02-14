@@ -5,36 +5,36 @@
 ## 目录
 
 ### 基础教程
-- [标准代币创建教程](standard.html) - 创建基础ERC20代币
-- [手机TP钱包发币教程](tp.html) - 使用TP钱包发币
-- [合约开源教程](verify-and-publish.html) - 合约验证与开源
+- [标准代币创建教程](standard.md) - 创建基础ERC20代币
+- [手机TP钱包发币教程](tp.md) - 使用TP钱包发币
+- [合约开源教程](verify-and-publish.md) - 合约验证与开源
 
 ### 代币类型
-- [分红本币创建教程](holdreflection.html) - 持币分红本币
-- [多功能代币创建教程](simplecontrol.html) - 带控制功能的代币
-- [314协议发币教程](314.html) - 314协议代币
-- [LP分红代币创建教程](lpreflection.html) - LP分红机制
-- [LP分红+推荐奖励](lpwithinviter.html) - LP分红带邀请
-- [黑洞分红代币创建教程](blackhole.html) - 黑洞分红机制
-- [持币复利+推荐奖励](holdwithinviter.html) - 复利+邀请机制
-- [底池燃烧代币创建教程](lpburn.html) - LP燃烧机制
-- [持币暴力分红](holdothers.html) - 暴力分红代币
-- [持币分红教程](token-reared.html) - 持币分红详解
-- [挖矿+推荐奖励](lpmine.html) - 挖矿机制代币
-- [代币合约定制](stakebuyback.html) - 自定义合约功能
+- [分红本币创建教程](holdreflection.md) - 持币分红本币
+- [多功能代币创建教程](simplecontrol.md) - 带控制功能的代币
+- [314协议发币教程](314.md) - 314协议代币
+- [LP分红代币创建教程](lpreflection.md) - LP分红机制
+- [LP分红+推荐奖励](lpwithinviter.md) - LP分红带邀请
+- [黑洞分红代币创建教程](blackhole.md) - 黑洞分红机制
+- [持币复利+推荐奖励](holdwithinviter.md) - 复利+邀请机制
+- [底池燃烧代币创建教程](lpburn.md) - LP燃烧机制
+- [持币暴力分红](holdothers.md) - 暴力分红代币
+- [持币分红教程](token-reared.md) - 持币分红详解
+- [挖矿+推荐奖励](lpmine.md) - 挖矿机制代币
+- [代币合约定制](stakebuyback.md) - 自定义合约功能
 
 ### 流动性管理
-- [创建流动性资金池教程](createliquidity.html) - 加池子教程
-- [创建稳定币流动池教程](createv3.html) - V3稳定池
-- [增加/移除流动性资金池教程](lpmanage.html) - 流动性管理
-- [加池开盘并捆绑买入教程](createbuy.html) - 开盘捆绑买入
+- [创建流动性资金池教程](createliquidity.md) - 加池子教程
+- [创建稳定币流动池教程](createv3.md) - V3稳定池
+- [增加/移除流动性资金池教程](lpmanage.md) - 流动性管理
+- [加池开盘并捆绑买入教程](createbuy.md) - 开盘捆绑买入
 
 ### 锁定与解锁
-- [创建锁池或锁仓教程](createlock.html) - 锁定教程
-- [解锁池子或代币教程](lockmanage.html) - 解锁教程
+- [创建锁池或锁仓教程](createlock.md) - 锁定教程
+- [解锁池子或代币教程](lockmanage.md) - 解锁教程
 
 ### 交易工具
-- [代币批量交易/市值管理教程](swapbot.html) - 市值管理工具
+- [代币批量交易/市值管理教程](swapbot.md) - 市值管理工具
 
 ---
 

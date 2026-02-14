@@ -4,15 +4,15 @@
 
 ## 目录
 
-- [薄饼加池/撤池教程](addlp.html) - PancakeSwap流动性操作
-- [钱包怎么添加代币？](addtoken.html) - 在钱包中添加自定义代币
-- [Ave检测怎么才能全绿？](ave.html) - 代币安全检测优化
-- [如何锁仓与锁池？](lock.html) - 代币和LP锁定教程
-- [代币怎么上头像logo？](logo.html) - 代币Logo申请指南
-- [V2和V3的池子差异？](swap.html) - 流动性池版本区别
-- [V3怎么加池子？](uniswap.html) - Uniswap V3流动性添加
-- [V2创建流动性教程](uniswapv2.html) - V2加池子教程
-- [X Layer代币怎么开源验证？](xlayer-verified.html) - X Layer合约验证
+- [薄饼加池/撤池教程](addlp.md) - PancakeSwap流动性操作
+- [钱包怎么添加代币？](addtoken.md) - 在钱包中添加自定义代币
+- [Ave检测怎么才能全绿？](ave.md) - 代币安全检测优化
+- [如何锁仓与锁池？](lock.md) - 代币和LP锁定教程
+- [代币怎么上头像logo？](logo.md) - 代币Logo申请指南
+- [V2和V3的池子差异？](swap.md) - 流动性池版本区别
+- [V3怎么加池子？](uniswap.md) - Uniswap V3流动性添加
+- [V2创建流动性教程](uniswapv2.md) - V2加池子教程
+- [X Layer代币怎么开源验证？](xlayer-verified.md) - X Layer合约验证
 
 ---
 

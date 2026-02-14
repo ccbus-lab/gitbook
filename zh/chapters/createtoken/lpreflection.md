@@ -17,7 +17,7 @@ LP分红指的是，用户在去中心化交易所（如薄饼swap）添加流�
 
 具体分红哪种币，可以在创建合约时选择，一般为主流币，如wBNB、USDT、USDC、Doge等等。
 
-各主流币合约地址，可以参照：[主流币合约地址](smart-contract.md)
+各主流币合约地址，可以参照：[主流币合约地址](../practical-information/smart-contract.md)
 
 ## 2、连接钱包（老手忽略该操作）
 

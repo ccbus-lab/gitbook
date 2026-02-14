@@ -5,17 +5,17 @@
 ## 目录
 
 ### 钱包安装
-- [Tonkeeper钱包安装教程](tonkeeper.html) - Tonkeeper钱包配置
+- [Tonkeeper钱包安装教程](tonkeeper.md) - Tonkeeper钱包配置
 
 ### 代币创建
-- [TON链一键发币教程](standard.html) - 标准Jetton代币创建
+- [TON链一键发币教程](standard.md) - 标准Jetton代币创建
 
 ### 流动性池
-- [DeDust加池子(创建流动性)教程](dedust.html) - DeDust DEX操作
-- [Ston.fi加池子(创建流动性)教程](ston.html) - Ston.fi DEX操作
+- [DeDust加池子(创建流动性)教程](dedust.md) - DeDust DEX操作
+- [Ston.fi加池子(创建流动性)教程](ston.md) - Ston.fi DEX操作
 
 ### 锁池工具
-- [锁池平台TonRaffles使用教程](tonraffles.html) - LP锁定教程
+- [锁池平台TonRaffles使用教程](tonraffles.md) - LP锁定教程
 
 ---
 
