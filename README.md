@@ -26,4 +26,4 @@ __/\\\\\\____________________/\\\________
 
 A comprehensive blockchain tools guide covering token creation, cross-chain bridges, DEX operations, and more across EVM, Solana, Sui, TON, and TRON ecosystems.
 
-**Languages:** [中文](zh/) | [English](en/)
+**Languages:** Chinese (default) | English — use the language switcher in the published site.
